@@ -1,0 +1,9 @@
+1/ cd file
+2/ git config --global user.name.email
+3/ git clone ......project...
+4/ move file > nameproject .
+6/ cd > nameproject
+7/ git add .
+8/ git commit -m "mo ta "
+9/ git tag (gan tag cho file)
+10/git push origin master
